@@ -1,4 +1,4 @@
-FROM node:10-alpine
+FROM node:12-alpine
 
 # before, I got the below error:
 # Error: Could not locate the bindings file. Tried:
